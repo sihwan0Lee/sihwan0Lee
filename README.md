@@ -5,7 +5,6 @@
   #### “Following’s not really my style.”
   #### "sometimes you have to run before you can walk"
   #### 
-  #### “We create our own Demons.”
   #### "Everybody wants a happy ending. Right? But it doesn't always roll that way."
   #### 
   [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link=https://www.notion.so/Lee-Sihwan-bf3f5793f4eb4e44adcd77fa433934b6)](https://www.notion.so/Lee-Sihwan-bf3f5793f4eb4e44adcd77fa433934b6) 
