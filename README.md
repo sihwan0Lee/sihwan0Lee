@@ -2,7 +2,6 @@
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinDevT)](https://hits.seeyoufarm.com)
   ### 
-  #### “Following’s not really my style.”
   #### "sometimes you have to run before you can walk"
   #### 
   #### "Everybody wants a happy ending. Right? But it doesn't always roll that way."
